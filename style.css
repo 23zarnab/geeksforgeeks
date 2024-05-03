@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(8, 211, 93);
+    
+}
+#navs{
+    display: flex;
+    margin-left: 50px;
+}
+.nav ul  {
+    display: flex;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: Verdana;
+}
+.nav ul li{
+    list-style-type: none;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#hi{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 90px; 
+  
+}
+#hi h2{
+    padding: 30px;
+   
+    
+}
+#about{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    
+    
+}
+img{
+    max-width: 15%;
+    float: left;
+    padding: 60px;
+    margin-bottom: 30px;
+    
+}
+#about h1{
+    color: rgb(8, 211, 93);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    padding: 20px;
+}
+#about p{
+    text-align: justify;
+    font-family: Verdana;
+}
+.pro{
+   
+    background-color: rgb(227, 225, 230);
+    
+}
+.pro h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    text-decoration: underline;
+}
+.pro ul li a{
+     text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: black;
+    
+}
+.pro ul {
+    margin-left: 300px;
+    padding: 20px;
+}
+.pro img{
+    float: right;
+    
+    
+    padding: 60px;
+    margin-top: 50px;
+    
+}
+.Achivement{
+    background-color:black;
+    padding: 30px ;
+   
+    
+    
+}
+.list ul{
+    margin-left: 40px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.Achivement h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(8, 211, 93) ;
+    text-decoration: underline;
+    padding:  30px;
+}
+.con{
+    background-color: rgb(227, 225, 230);
+    align-items: center;
+    padding: 40px;
+    
+    
+}
+
+
+.con h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration: underline;
+    padding: 30px;
+}
+.form{
+    height: 200%;
+    width: 30%;
+    background-color: rgb(10, 10, 10);
+    margin-left: 450px;
+    text-align: center;
+    color: white; 
+    margin-top: 40px;
+    
+    
+      
+}
+button:hover{
+    background-color: rgb(8, 211, 93) ;
+}
+footer{
+    background-color: rgb(8, 211, 93) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+footer p a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
